@@ -363,19 +363,6 @@ print("相似度结果:", result)
 
 
 
-# 🐧 QQ交流群
-
-<br>
-
-<div align="center">
-
-<img src="https://free.picui.cn/free/2025/07/04/6867f1907d1a0.png" alt="QQGroup" width="200" height="200">
-
-</div>
-
-# 🚬 请作者抽一包香香软软的利群
-<br>
-
 <div align="center">
 
 <img src="https://free.picui.cn/free/2025/07/04/6867efd0bd67e.png" alt="Ali" width="200" height="200">
@@ -398,50 +385,4 @@ print("相似度结果:", result)
 根据自身要求训练模型 无缝衔接下一个 下一个更乖。
 
 </div>
-
-# 😚 致谢名单
-
-
-<strong>这份荣光我不会独享</strong>
-
-
-[1] Ddddocr作者 网名:sml2h3
-
-
-[2] 微信公众号 OneByOne 网名:十一姐
-
-
-[3] 苏州大学,苏州大学文正学院 计算机科学与技术学院 张文哲教授
-
-
-[4] 苏州大学,苏州大学文正学院 计算机科学与技术学院 王辉教授
-
-
-[5] 苏州市职业大学,苏州大学文正学院 计算机科学与技术学院 陆公正副教授
-
-
-[6] 武汉科锐软件安全教育机构 钱林松讲师 网名:Backer
-
-
-
-# 📚 参考文献
-
-[1] Github. 2025.03.28 https://github.com/sml2h3
-
-
-[2] Github. 2025.03.28 https://github.com/2833844911/
-
-
-[3] Bilibili. 2025.03.28 https://space.bilibili.com/308704191
-
-
-[4] Bilibili. 2025.03.28 https://space.bilibili.com/472467171
-
-
-[5] Ultralytics. 2025.03.28 https://docs.ultralytics.com/modes/train/
-
-
-[6] YRL's Blog. 2025.03.28 https://blog.2zxz.com/archives/icondetection
-
-
 
