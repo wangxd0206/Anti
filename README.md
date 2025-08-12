@@ -358,31 +358,3 @@ print("相似度结果:", result)
 
 ```
 
-
----
-
-
-
-<div align="center">
-
-<img src="https://free.picui.cn/free/2025/07/04/6867efd0bd67e.png" alt="Ali" width="200" height="200">
-<img src="https://free.picui.cn/free/2025/07/04/6867efd0d7cbb.png" alt="Wx" width="200" height="200">
-
-</div>
-
-<br>
-
-# 💪🏼 模型训练
-
-<br>
-
-<div align="center">
-
-<img src="https://free.picui.cn/free/2025/07/04/6867f0684ff6e.png" width="200" height="200">
-
-<strong>https://github.com/81NewArk/AntiCAP_trainer</strong>
-
-根据自身要求训练模型 无缝衔接下一个 下一个更乖。
-
-</div>
-
